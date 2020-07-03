@@ -1,6 +1,6 @@
 # Evolutionary Algorithms  
 
-**Problem to slove: Maximize f (x, y) =80-x^2-y^2+10 cos(2πx) +10 cos(2πy)
+**Problem to slove: Maximize f (x, y) =80-x^2-y^2+10 cos(2πx) +10 cos(2πy)**
 
 					
     
